@@ -1,0 +1,60 @@
+Q1: Which design patterns benefit from the multiple inheritances?
+a. Adapter and observer pattern
+b. Code pattern
+c. Glue pattern
+d. None of the mentioned
+1
+Q2: What is meant by multiple inheritance?
+a. Deriving a base class from derived class
+b. Deriving a derived class from base class
+c. Deriving a derived class from more than one base class
+d. None of the mentioned
+3
+Q3: Inheritance allow in C++ Program?
+a. Class Re-usability
+b. Creating a hierarchy of classes
+c. Extendibility
+d. All of the above
+4
+Q4: What are the things are inherited from the base class?
+a. Constructor and its destructor
+b. Operator=() members
+c. Friends
+d. All of the above
+4
+Q5: Which of the following advantages we lose by using multiple inheritance?
+a. Dynamic binding
+b. Polymorphism
+c. Both Dynamic binding & Polymorphism
+d. None of the mentioned
+3
+Q6: Compile time polymorphism in C++ language are
+a. Operator overloading
+b. Function overloading
+c. Function overriding
+d. a & b
+4
+Q7: C++ abstract class can contain
+a. Pure virtual function
+b. Non-virtual function
+c. Only pure virtual function
+d. Both pure virtual and non-virtual function
+4
+Q8: Which of the following cannot be overloaded in C++?
+a. Increment operator
+b. Constructor
+c. Destructor
+d. New and delete operator
+3
+Q9: Which is the correct declaration of pure virtual function in C++
+a. virtual void func = 0;
+b. virtual void func() = 0;
+c. virtual void func(){0};
+d. void func() = 0;
+2
+Q10: Number of virtual table created for a base and a derived class is
+a. 0
+b. 1
+c. 2
+d. 3
+3

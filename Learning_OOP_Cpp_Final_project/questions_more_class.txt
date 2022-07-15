@@ -1,0 +1,60 @@
+Q1: What is a class ?
+a.template which has both data members and member functions
+b.which has variables
+c.both a and b
+d.none of the above
+1
+Q2:what is an object?
+a. instance of a class
+b. is  a class
+c. is not a class
+d. none of the above
+1
+Q3:(from Greek meaning “many forms”) is the quality that allows one interface to access a general class of actions.
+a.Polymorphism
+b.Inheritance
+c.Encapsulation
+d.Object-Oriented Programming
+1
+Q4:  Is the process by which one object can acquire the properties of another object.
+a. Polymorphism
+b. Inheritance
+c. Encapsulation
+d. Object-Oriented Programming
+2
+Q5: C++ is procedure oriented programming & C is object oriented programming.
+a. True
+b. False
+c. Trulse
+d. I don't know
+2
+Q6: C ++ has inheritance concept but c has not inheritance concept
+a. True
+b. False
+c. Trulse
+d. I don't know
+1
+Q7: C++ is structured design, C is object oriented design
+a. True
+b. False
+c. Trulse
+d. I don't know
+2
+Q8: Object oriented programming employs_________ programming approach.
+a. top-down
+b. procedural
+c. bottom-up
+d. all of these.
+2
+Q9: Which syntax among the following shows that a member is a private class?
+a. private: functionName(paramenters)
+b. private functionName(parameters)
+c. private(functionName(parameters))
+d. private::functionName(parameters)
+1
+Q10: Which of the following feature is used in function overloading and function with default argument?
+a. Encapsulation
+b. Abstraction
+c. Modularity
+d. Polymorphism
+4

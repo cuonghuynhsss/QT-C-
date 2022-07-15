@@ -1,0 +1,60 @@
+Q1: Who invented OOP?
+a. Andrea Ferro
+b. Adele Goldberg
+c. Alan Kay
+d. Dennis Ritchie
+3
+Q2: Which is not a feature of OOP in general definitions?
+a. Efficient Code
+b. Code reusability
+c. Modularity
+d. Duplicate/Redundant data
+4
+Q3: Which feature of OOP indicates code reusability?
+a. Abstraction
+b. Polymorphism
+c. Encapsulation
+d. Inheritance
+4
+Q4: Which header file is required in C++ to use OOP?
+a. OOP can be used without using any header file
+b. stdlib.h
+c. iostream.h
+d. stdio.h
+1
+Q5: It is composes the statements that provides the actual body of the function.
+a. Data hiding
+b. Message passing
+c. Platform independent
+d. Data binding
+3
+Q6: The feature by which one object can interact with another object is _____________
+a. Message reading
+b. Data Binding
+c. Data transfer
+d. Message Passing
+4
+Q7: It is the statement that indicates a function will be used.
+a. 4
+b. 3
+c. 2
+d. 1
+2
+Q8: In multilevel inheritance, which is the most significant feature of OOP used?
+a. Code readability
+b. Code efficiency
+c. Flexibility
+d. Code reusability
+1
+Q9: Which of the following is not true about polymorphism?
+a. Helps in redefining the same functionality
+b. Increases overhead of function definition always
+c. It is feature of OOP
+d. Ease in readability of program
+2
+Q10: Which among the following can show polymorphism?
+a. Overloading &&
+b. Overloading <<
+c. Overloading ||
+d. Overloading +=
+2
